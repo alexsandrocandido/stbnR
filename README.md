@@ -1,8 +1,8 @@
 
-# stbnR
+# Spatio-Temporal Bayesian Network for R - stbnR
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-Spatio-Temporal Bayesian Netwokr for R (stbnR)
+Building it...
 
